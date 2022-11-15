@@ -1,0 +1,5 @@
+1. Choose a pizza company
+2. Find the number on google
+3. Call and order pizza 
+4. Wait for pizza delivery person and pay
+5. Eat and enjoy 
