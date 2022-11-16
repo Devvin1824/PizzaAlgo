@@ -3,3 +3,5 @@
 3. Call and order pizza 
 4. Wait for pizza delivery person and pay
 5. Eat and enjoy 
+6a. Watch some TV
+7a. Go to sleep 
